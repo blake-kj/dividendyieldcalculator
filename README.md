@@ -1,4 +1,4 @@
-# [My Task List](https://blake-kj-dividendyieldcalculator.netlify.app/)
+# [Dividend Yield Calculator](https://blake-kj-dividendyieldcalculator.netlify.app/)
 
 Dividend Yield Calculator is a clean dividend yield calculator web application written in JavaScript and HTML using the Bootstrap CSS framework.
 
